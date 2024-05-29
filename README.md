@@ -1,0 +1,1 @@
+"Immerse yourself in the world of dance with our meticulously crafted website, blending HTML, CSS, JavaScript, Node.js, and Pug templates. Explore dance class reviews, book your sessions, and embrace the rhythm of your journey towards mastering the art of dance. Join our community and let the music move you!"
